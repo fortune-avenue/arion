@@ -1,0 +1,54 @@
+name: arion
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  collection: ^1.17.2
+  cupertino_icons: ^1.0.2
+  flame: ^1.10.1
+  flame_tiled: ^1.16.0
+  flame_audio: ^2.1.6
+  flutter:
+    sdk: flutter
+  auto_size_text: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/map/
+    - assets/images/map/collectible/
+    - assets/images/map/EPIC RPG World Pack - Ancient Ruins V 1.9.1/
+    - assets/images/map/EPIC RPG World Pack - Ancient Ruins V 1.9.1/Props/
+    - assets/images/map/EPIC RPG World Pack - Ancient Ruins V 1.9.1/Tilesets/
+    - assets/images/map/RPGW_Caves_v2.1/
+    - assets/images/player/
+    - assets/images/zombie/
+    - assets/images/demon/
+    - assets/images/potion/
+    - assets/images/ui/
+    - assets/images/
+    - assets/tiles/
+    - assets/tiles/tilesets/
+    - assets/audio/
+  
+  fonts:
+    - family: Pixelify
+      fonts:
+        - asset: assets/fonts/pixelify_regular.ttf
+          weight: 400
+        - asset: assets/fonts/pixelify_medium.ttf
+          weight: 500
+        - asset: assets/fonts/pixelify_semibold.ttf
+          weight: 600
+        - asset: assets/fonts/pixelify_bold.ttf
+          weight: 700

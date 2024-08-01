@@ -1,0 +1,81 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map/era1-zone1.tmx": {
+            "scale": 1.05,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 627.1428571428571,
+                "y": 819.5238095238094
+            }
+        },
+        "tilesets/atlas-props.tsx": {
+            "scaleInDock": 0.4084,
+            "scaleInEditor": 1
+        },
+        "tilesets/atlas-props2.tsx": {
+            "scaleInDock": 0.4226,
+            "scaleInEditor": 1
+        },
+        "tilesets/cave.tsx": {
+            "scaleInDock": 0.8779,
+            "scaleInEditor": 1
+        },
+        "tilesets/forest-props.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/grass-light-transp.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/grass-mid tone-transp.tsx": {
+            "scaleInDock": 0.7881,
+            "scaleInEditor": 1
+        },
+        "tilesets/tileset-terrain-2.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/tileset-terrain2.tsx": {
+            "scaleInDock": 0.448,
+            "scaleInEditor": 1
+        },
+        "tilesets/tx-grass.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/tx-plants.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/tx-shadow-plants.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/water to grass1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/julianpratama/Documents/zog/game_project/game-project/assets/arion-map/assets/EPIC RPG World Pack - Ancient Ruins V 1.9.1/Tilesets",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "arion-map.tiled-project",
+    "recentFiles": [
+        "tilesets/water to grass1.tsx",
+        "map/era1-zone1.tmx",
+        "tilesets/cave.tsx",
+        "tilesets/grass-mid tone-transp.tsx",
+        "tilesets/grass-light-transp.tsx",
+        "tilesets/atlas-props.tsx",
+        "tilesets/atlas-props2.tsx",
+        "tilesets/tileset-terrain2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
